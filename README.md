@@ -1,14 +1,8 @@
-parallel  routing 
+Layoouts in next js
 
-is mein condtion bhi laga saktay hn 
+src folder mein ja k components ka folder bnana hn 
 
-iske page mein @lagatay hn 
+koi aur naam hoga tou talwind config js mein ja k mention krna par jayega
 
-see colorbox folder 
 
-is ko use krnay k liye sab se pehlay layout.js naam yehi hoga ki file bnayegay 
-
-is k ander children pass krengay wo us folder k children hongay 
-
-wahan condition laga saktay hn 
 
