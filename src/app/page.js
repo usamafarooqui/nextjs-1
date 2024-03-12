@@ -1,3 +1,4 @@
+import LearnDataFetching from "@/components/LearnDataFetching";
 import LearningLink from "@/components/LearningLink";
 import UseRouter from "@/components/UseRouter";
 import Image from "next/image";
@@ -8,6 +9,7 @@ export default function Home() {
       <h1>hello world</h1>
       {/* <LearningLink /> */}
       <UseRouter />
+      <LearnDataFetching />
     </main>
   );
 }
