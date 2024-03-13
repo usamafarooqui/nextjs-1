@@ -6,7 +6,7 @@ import Image from 'next/image';
 import pic from '../../public/img.jpg'
 const UseRouter = () => {
     const router = useRouter();
-    console.log(router)
+
   return (
     <div>UseRouter
     
